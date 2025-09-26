@@ -1,4 +1,4 @@
-module github.com/Braendie/chat-server-proto
+module github.com/Braendie/chat-server-proto-chat
 
 go 1.24.6
 
